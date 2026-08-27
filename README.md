@@ -38,3 +38,7 @@ Make sure you follow all the requirements specified in the handout.
 * Do not use a different scenario unless instructed by the faculty/TA.
 
 Good luck with your lab!
+
+
+Ruthu H Kumar
+pes1ug23am246@pesu.pes.edu
